@@ -1,0 +1,7 @@
+101, Alice Smith, 84
+102, Bob Johnson, 72
+103, Charlie Brown, 65
+104, Dana Scully, 91
+105, , 88
+106, Ellen Ripley, ninety-five
+107, Fox Mulder

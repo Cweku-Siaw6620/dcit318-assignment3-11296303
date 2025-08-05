@@ -1,0 +1,15 @@
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\bin\Debug\net9.0\GradeProcessingApp.exe
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\bin\Debug\net9.0\GradeProcessingApp.deps.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\bin\Debug\net9.0\GradeProcessingApp.runtimeconfig.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\bin\Debug\net9.0\GradeProcessingApp.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\bin\Debug\net9.0\GradeProcessingApp.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.sourcelink.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\refint\GradeProcessingApp.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\GradeProcessingApp.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\GradeProcessingApp\obj\Debug\net9.0\ref\GradeProcessingApp.dll
