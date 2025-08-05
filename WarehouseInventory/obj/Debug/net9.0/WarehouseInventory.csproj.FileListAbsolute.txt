@@ -1,0 +1,15 @@
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.exe
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.deps.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.runtimeconfig.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.sourcelink.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\refint\WarehouseInventory.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment3-11296303\WarehouseInventory\obj\Debug\net9.0\ref\WarehouseInventory.dll
