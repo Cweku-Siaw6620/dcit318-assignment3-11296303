@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Notebook",
+    "Quantity": 100,
+    "DateAdded": "2025-08-15T09:02:14.0008942+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Pen",
+    "Quantity": 250,
+    "DateAdded": "2025-08-15T09:02:14.0079144+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Eraser",
+    "Quantity": 80,
+    "DateAdded": "2025-08-15T09:02:14.007917+00:00"
+  }
+]
